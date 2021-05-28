@@ -1,5 +1,6 @@
 
 body{
+    background-color: rgb(221, 222, 236);
     color: #40514E;
     margin: 0;
     text-align: center;
@@ -38,7 +39,7 @@ hr{
     padding-top: 100px;
 }
 .middle-container{
-    background-color: rgb(214, 215, 238);
+    background-color: rgb(221, 222, 236);
     margin: 100px 0;
 }
 
